@@ -1,0 +1,18 @@
+# PRIVATE / AUTHOR-CONTROLLED COURSE CONTENT — NEVER COMMIT
+# Applies to 14 EGIS PDFs and any local exercise data placed under references/.
+skills/egis-geospatial-learning/references/**
+!skills/egis-geospatial-learning/references/README.md
+
+# Local outputs and temporary files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.cache/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+outputs/
+local-data/
+*.tmp
+~$*
