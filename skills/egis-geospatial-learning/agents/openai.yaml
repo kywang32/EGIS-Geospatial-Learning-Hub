@@ -1,0 +1,4 @@
+interface:
+  display_name: EGIS Geospatial Learning Hub
+  short_description: GIS, Remote Sensing & GNSS
+  default_prompt: Explain how GIS, remote sensing, and GNSS work together.

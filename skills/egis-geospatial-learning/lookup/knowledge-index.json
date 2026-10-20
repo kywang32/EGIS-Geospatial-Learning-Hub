@@ -1,0 +1,150 @@
+{
+  "schema_version": "1.0",
+  "reference_count": 14,
+  "files": [
+    {
+      "name": "EGIS II Practical Manual - Basic Operations Supplement.pdf",
+      "path": "references/EGIS II Practical Manual - Basic Operations Supplement.pdf",
+      "kind": "practical",
+      "format": "PDF",
+      "pages": 3,
+      "topic": "QGIS basic operations supplement",
+      "source": "Author-created EGIS course material",
+      "access": "request_only"
+    },
+    {
+      "name": "EGIS II Practical Manual - Landsat & Urban Heat.pdf",
+      "path": "references/EGIS II Practical Manual - Landsat & Urban Heat.pdf",
+      "kind": "practical",
+      "format": "PDF",
+      "pages": 20,
+      "topic": "Landsat remote sensing, urban surface temperature",
+      "source": "Author-created EGIS course material",
+      "access": "request_only"
+    },
+    {
+      "name": "EGIS II Practical Manual - Raster Analysis.pdf",
+      "path": "references/EGIS II Practical Manual - Raster Analysis.pdf",
+      "kind": "practical",
+      "format": "PDF",
+      "pages": 15,
+      "topic": "Raster and terrain analysis",
+      "source": "Author-created EGIS course material",
+      "access": "request_only"
+    },
+    {
+      "name": "EGIS II Practical Manual - Spatial Equity - 2SFCA.pdf",
+      "path": "references/EGIS II Practical Manual - Spatial Equity - 2SFCA.pdf",
+      "kind": "practical",
+      "format": "PDF",
+      "pages": 15,
+      "topic": "Spatial accessibility and two-step floating catchment area (2SFCA)",
+      "source": "Author-created EGIS course material",
+      "access": "request_only"
+    },
+    {
+      "name": "EGIS II Practical Manual - Spatial Pattern Discovery.pdf",
+      "path": "references/EGIS II Practical Manual - Spatial Pattern Discovery.pdf",
+      "kind": "practical",
+      "format": "PDF",
+      "pages": 10,
+      "topic": "Spatial patterns, exploratory spatial statistics",
+      "source": "Author-created EGIS course material",
+      "access": "request_only"
+    },
+    {
+      "name": "EGIS II Practical Manual - Vector Analysis with QGIS.pdf",
+      "path": "references/EGIS II Practical Manual - Vector Analysis with QGIS.pdf",
+      "kind": "practical",
+      "format": "PDF",
+      "pages": 16,
+      "topic": "QGIS vector workflows, buffers and overlay",
+      "source": "Author-created EGIS course material",
+      "access": "request_only"
+    },
+    {
+      "name": "I-1 Begining + Cartography 1 4 print.pdf",
+      "path": "references/I-1 Begining + Cartography 1 4 print.pdf",
+      "kind": "lesson",
+      "format": "PDF",
+      "pages": 44,
+      "topic": "Cartography I and course introduction",
+      "source": "Author-created EGIS course material",
+      "access": "request_only"
+    },
+    {
+      "name": "I-2 Cartography 2 4 print.pdf",
+      "path": "references/I-2 Cartography 2 4 print.pdf",
+      "kind": "lesson",
+      "format": "PDF",
+      "pages": 38,
+      "topic": "Cartography II",
+      "source": "Author-created EGIS course material",
+      "access": "request_only"
+    },
+    {
+      "name": "I-3 GIS Concepts I 4 print.pdf",
+      "path": "references/I-3 GIS Concepts I 4 print.pdf",
+      "kind": "lesson",
+      "format": "PDF",
+      "pages": 52,
+      "topic": "GIS concepts I",
+      "source": "Author-created EGIS course material",
+      "access": "request_only"
+    },
+    {
+      "name": "I-4 GIS Concepts II 4 print.pdf",
+      "path": "references/I-4 GIS Concepts II 4 print.pdf",
+      "kind": "lesson",
+      "format": "PDF",
+      "pages": 40,
+      "topic": "GIS concepts II",
+      "source": "Author-created EGIS course material",
+      "access": "request_only"
+    },
+    {
+      "name": "I-5 Remote Sensing Concepts I 4 print.pdf",
+      "path": "references/I-5 Remote Sensing Concepts I 4 print.pdf",
+      "kind": "lesson",
+      "format": "PDF",
+      "pages": 40,
+      "topic": "Remote sensing concepts I",
+      "source": "Author-created EGIS course material",
+      "access": "request_only"
+    },
+    {
+      "name": "I-6 Remote Sensing Concepts II 4 print.pdf",
+      "path": "references/I-6 Remote Sensing Concepts II 4 print.pdf",
+      "kind": "lesson",
+      "format": "PDF",
+      "pages": 47,
+      "topic": "Remote sensing concepts II",
+      "source": "Author-created EGIS course material",
+      "access": "request_only"
+    },
+    {
+      "name": "I-7 3S Perspectives 4 print.pdf",
+      "path": "references/I-7 3S Perspectives 4 print.pdf",
+      "kind": "lesson",
+      "format": "PDF",
+      "pages": 27,
+      "topic": "Integrated GIS, remote sensing, GNSS, and emerging geospatial technologies",
+      "source": "Author-created EGIS course material",
+      "access": "request_only"
+    },
+    {
+      "name": "II-5 Remote Sensing Images Classification & Assessment 4 print.pdf",
+      "path": "references/II-5 Remote Sensing Images Classification & Assessment 4 print.pdf",
+      "kind": "lesson",
+      "format": "PDF",
+      "pages": 30,
+      "topic": "Satellite image classification and accuracy assessment",
+      "source": "Author-created EGIS course material",
+      "access": "request_only"
+    }
+  ],
+  "guidelines": "The 14 course PDFs are NOT included in this public repository. Their names and paths are a catalog for separately approved recipients; existence in this JSON does not imply file access or licensing. Resolve files[].path relative to SKILL.md (the skill root). Optional local retrieval via scripts/lookup_documents.py requires privately installed PDFs plus PyMuPDF. If unavailable, do not claim to have read or cite course pages; use appropriately identified general or independently verified knowledge.",
+  "access_policy": "restricted_companion_package_not_in_public_repository",
+  "bundled_in_public_release": false,
+  "installed_location": "references/ (relative to SKILL.md; populated by approved recipients only)"
+}

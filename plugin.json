@@ -1,0 +1,31 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "egis-geospatial-learning-hub",
+  "version": "1.0.0",
+  "description": "Multilingual open EGIS learning Skill, with optional author-approved local PDF course references.",
+  "author": {
+    "name": "Kunyang Wang"
+  },
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "EGIS Geospatial Learning Hub",
+        "developerName": "Kunyang Wang",
+        "shortDescription": "GIS, Remote Sensing & GNSS",
+        "longDescription": "Multilingual, open-source learning assistant for cartography, GIS, remote sensing, GNSS, integrated 3S, QGIS and spatial analysis. The Skill operates without any course PDFs. Fourteen EGIS lesson and practical PDFs are available separately upon author-approved request; with local access, it can ground explanations in those materials. Public download contains no teaching PDFs. Independent educational project; not an official Hiroshima University service.",
+        "category": "Education & Research",
+        "capabilities": [
+          "skills"
+        ],
+        "composerIcon": "./assets/gpt-icon.png",
+        "logo": "./assets/gpt-icon.png",
+        "defaultPrompt": [
+          "Explain how GIS, remote sensing, and GNSS work together.",
+          "What is the difference between vector and raster data?",
+          "Explain image classification accuracy assessment at a general level (without course PDFs if unavailable).",
+          "Guide me through buffer and overlay analysis in QGIS."
+        ]
+      }
+    }
+  }
+}
