@@ -11,7 +11,7 @@ Developed and maintained by **Kunyang Wang** using original teaching materials f
 
 ## Who can use it?
 
-Students, researchers and instructors interested in geospatial science. The assistant uses English by default and can respond in Chinese, Japanese or another language. Its focus is understanding spatial concepts, interpreting results and building sound workflows—not automated coursework or examination preparation.
+Students, researchers and instructors interested in geospatial science. The assistant uses English by default and can respond in English, Chinese, Japanese or another language. Its focus is understanding spatial concepts, interpreting results and building sound workflows—not automated coursework or examination preparation.
 
 ## Features
 
