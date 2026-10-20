@@ -36,7 +36,9 @@ Students, researchers and instructors interested in geospatial science. The assi
 
 The complete teaching-material package is distributed separately at the author's discretion to researchers, educators and students.
 
-**Access-request link: TO BE ADDED BY THE MAINTAINER.** The maintainer can upload the separate `EGIS-Course-Materials_PRIVATE_v1.0.0.zip` to Google Drive, set **General access = Restricted**, and replace this sentence with the Google Drive file URL. Visitors without access may then request permission, subject to the Drive account's sharing settings.
+**📚 [Request Access to EGIS Course Materials](https://drive.google.com/file/d/1NjzFnw_eet3YHiuKZITbOl8nxNwieNbd/view)**
+
+The 14 original EGIS teaching materials are available upon request for academic and educational purposes. Researchers, educators, and students may request access through Google Drive. All requests are reviewed and approved by the author, Kunyang Wang.
 
 When requesting access, briefly describe your affiliation (if any), intended educational/research use and an email address through the restricted provider's own access-request form. Do **not** post personal details in a public GitHub issue.
 
